@@ -1,7 +1,7 @@
+
 onefuntion - I have added very very importnat funtion here
 Twofuntion - I have added another very importnat funtion here
 Threefuntion - I have added third funtion heres
 
 added a chart funtion our new branch
 
-added a code for logout
