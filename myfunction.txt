@@ -1,7 +1,5 @@
-onefuntion - I have added one ok funtion here
+onefuntion - I have added an important funtion here
 Twofuntion - I have added another very importnat funtion here
 Threefuntion - I have added third funtion heres
 
 added a chart funtion our new branch
-
-adding a new funtion to login user via X method
